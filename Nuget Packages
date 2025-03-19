@@ -1,0 +1,7 @@
+Costura Fody - resource embedder, makes keeping the dll's in your built projects folder unnecessary (by embedding them into the exe automatically on build) which allows you to have a standalone exe, no jrpc/xDevkit/devexpress bloated ass folder, take note rgh scene. PLEASE.
+
+Microsoft.Toolkit.UWP.Notifications - Toast Notifies :) I don't really have to say much else really
+
+IronPython - Enables use of python scripts or creation from my understanding
+
+MaterialSkin2 - Nice enough alternative if you don't have access to DevExpress legitimately or not
